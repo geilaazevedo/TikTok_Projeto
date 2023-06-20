@@ -69,5 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### 'Link to the video' 
+### `Link to the video`
 Copy and then paste into a browser to see the tiktok clone: https://tiktok---jornada-e3678.web.app/ To start the video click on it, and to pause it do the same thing, if you want to see the second video just scroll down.
